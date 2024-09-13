@@ -1,3 +1,5 @@
+This repo contains my files for learnings on APIs
+
 APIs (Application Programming Interfaces) are a way for different software applications to communicate with each other. When you use an API, you're accessing certain features or data of a service, website, or app without needing to know its internal workings. Let’s go through the basics of APIs, including what they are, how they work, and how to create, use, and test them.
 
 ### 1. **What is an API?**
