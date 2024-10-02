@@ -1,0 +1,49 @@
+API literacy is crucial in today's industry. 
+
+As we progress through fall and approach year-end, it's an ideal time to enhance your tech skills. 
+
+I've organized this curated list of free resources into categories to guide your API mastery journey before the new year.
+
+????????????????????????
+1. API Fundamentals - https://lnkd.in/e8eMet_k
+2. API Simplified - https://lnkd.in/er9JiGxw
+3. API Terminologies - https://lnkd.in/eRsPMzpd
+
+???????? ????????????????
+4. API Methods - https://lnkd.in/ey9v7-hU
+5. API Authentication - https://lnkd.in/eNPfpAdE
+6. API Status Codes - https://lnkd.in/egXizUrS
+
+???????????????? ????????????
+7. REST API vs GraphQL - https://lnkd.in/eZHREdgC
+8. API Scaling - https://lnkd.in/e3mZSvmn
+9. Developing Robust APIs - https://lnkd.in/eBXzbFyg
+
+??????????????????????
+10. API Integration - https://lnkd.in/eDASPP5m
+11. API Integration in Detail - https://lnkd.in/eZwFVrH7
+12. API with Python - https://lnkd.in/eM23ah2y
+
+?????????????? ?????? ??????????
+13. API Testing - https://lnkd.in/emgmWJqH
+14. Testing APIs - https://lnkd.in/eCPnGTGi
+15. APIs with Postman - https://lnkd.in/ezue3d4B
+
+???????????????? ?????? ??????????????????????????
+16. API Security - https://lnkd.in/e79ZYfPa
+17. APIs for Everyone - https://lnkd.in/e4WGDffA
+
+Key Recommendations:
+
+1. Progress through categories sequentially for optimal learning.
+2. Each link provides free, high-quality content.
+3. Consistent practice is crucial for skill development.
+4. Review earlier topics as needed to reinforce understanding.
+
+This comprehensive path covers everything from basics to advanced implementation. I've invested considerable time in these resources and can attest to their effectiveness.
+
+With just a few months left in the year, now is the perfect time to set and achieve your API learning goals. 
+
+This investment in your skills can significantly enhance your technical capabilities and position you for new opportunities in the coming year.
+
+Credit: Brij kishore Pandey
